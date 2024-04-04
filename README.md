@@ -17,7 +17,7 @@
 - <a href="https://godke.blog"><img height="22" width="22" src="https://picbed.godke.blog/img/ATRIhead.jpg"></a>：个人网站
 
 ### 技术栈
-![C++](https://img.shields.io/badge/-C++-%23239120?style=flat&logo=C++)
+![C++](https://img.shields.io/badge/-C++-%23239120?style=flat&logo=Cpp)
 ![C语言](https://img.shields.io/badge/-C%E8%AF%AD%E8%A8%80-%2313c9ae?style=flat&logo=C&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/-Linux-%23fcc624?style=flat&logo=Linux&logoColor=242424)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E34C26?style=flat&logo=html5&logoColor=ffffff)
