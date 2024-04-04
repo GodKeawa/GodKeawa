@@ -4,7 +4,7 @@
 
 ### 自我介绍
 
-<div><img align="right" alt="GIF" src="https://imglink.win/image/2024/04/05/fBxwM.webp" width="300" height="100%" /></div>
+<div><img align="right" alt="GIF" src="https://imglink.win/image/2024/04/05/fB2KG.webp" width="300" height="100%" /></div>
 
 - 大家好，我是GodKe，来自江西南昌
 - 目前是一名计算机系稀有专业的学生
@@ -14,7 +14,7 @@
 
 ### 拒绝线上社交中
 
-- <a href="https://godke.blog"><img height="22" width="22" src="https://picbed.godke.blog/img/ATRIhead.jpg"></a>：个人网站
+- <a href="https://godke.blog"><img height="22" width="22" src="https://picbed.godke.blog/img/ATRIhead.jpg"></a>个人网站活跃中
 
 ### 技术栈
 ![C++](https://img.shields.io/badge/-C++-%23239120?style=flat&logo=C%2B%2B)
@@ -31,6 +31,7 @@
 
 ### 开源项目
 [![](https://github-readme-stats.vercel.app/api/pin/?username=GodKeawa&repo=GodKeawa.github.io&theme=tokyonight)](https://github.com/GodKeawa/GodKeawa.github.io)
+
 <br>
 
 ### Github 状态图
