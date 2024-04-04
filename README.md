@@ -4,7 +4,7 @@
 
 ### 自我介绍
 
-<div><img align="right" alt="GIF" src="https://imglink.win/image/2024/04/05/fB2KG.webp" width="300" height="100%" /></div>
+<div><img align="right" alt="GIF" src="https://imglink.win/image/2024/04/05/fBCgu.webp" width="300" height="100%" /></div>
 
 - 大家好，我是GodKe，来自江西南昌
 - 目前是一名计算机系稀有专业的学生
