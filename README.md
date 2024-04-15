@@ -1,4 +1,4 @@
-<img align="right" src="https://moe-counter.glitch.me/get/@GodKe?theme=asoul">
+<img align="right" src="https://moe-counter.glitch.me/get/@GodKeawa?theme=asoul">
 
 ## 一名资深游戏玩家—GodKe <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /> 
 
