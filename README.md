@@ -14,7 +14,7 @@
 
 ### 拒绝线上社交中
 
-- 个人网站活跃中 点击进入神秘领域 -> <a href="https://godke.blog"><img height="22" width="22" src="https://picbed.godke.blog/img/ATRIhead.jpg"></a>
+- 个人网站活跃中 点击进入神秘领域(建议科学上网访问) -> <a href="https://godke.blog"><img height="22" width="22" src="https://picbed.godke.blog/img/ATRIhead.jpg"></a>
 
 ### 技术栈
 ![C++](https://img.shields.io/badge/-C++-%23239120?style=flat&logo=C%2B%2B)
