@@ -31,6 +31,8 @@
 
 ### 开源项目
 [![](https://github-readme-stats.vercel.app/api/pin/?username=GodKeawa&repo=GodKeawa.github.io&theme=tokyonight)](https://github.com/GodKeawa/GodKeawa.github.io)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=GodKeawa&repo=MedicalResearch&theme=tokyonight)](https://github.com/GodKeawa/MedicalResearch)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=GodKeawa&repo=Data-Classification&theme=tokyonight)](https://github.com/GodKeawa/Data-Classification)
 
 <br>
 
