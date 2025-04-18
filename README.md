@@ -34,6 +34,7 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=GodKeawa&repo=Data-Classification&theme=tokyonight)](https://github.com/GodKeawa/Data-Classification)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=GodKeawa&repo=GodKeawa.github.io&theme=tokyonight)](https://github.com/GodKeawa/GodKeawa.github.io)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=GodKeawa&repo=FudanMirror&theme=tokyonight)](https://github.com/GodKeawa/FudanMirror)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=GodKeawa&repo=CrawlerDetect&theme=tokyonight)](https://github.com/GodKeawa/CrawlerDetect)
 
 <br>
 
