@@ -11,31 +11,11 @@
 - 对各种技术，游戏和社科哲学感兴趣
 - 欢迎光临我的Github 
 
-
-### 绝赞自闭中
-
-- 个人网站已完成重构[GodKe.BLOG](https://godke.blog/)
-- 三线部署，总有一个能用
-
-### 技术栈
-![C++](https://img.shields.io/badge/-C++-%23239120?style=flat&logo=C%2B%2B)
-![C语言](https://img.shields.io/badge/-C%E8%AF%AD%E8%A8%80-%2313c9ae?style=flat&logo=C&logoColor=ffffff)
-![Linux](https://img.shields.io/badge/-Linux-%23fcc624?style=flat&logo=Linux&logoColor=242424)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E34C26?style=flat&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%23197CBE?style=flat&logo=css3)\
-![Node.js](https://img.shields.io/badge/-Node.js-%23579050?style=flat&logo=node.js&logoColor=ffffff)
-![Shell](https://img.shields.io/badge/-Shell-%2389E051?style=flat&logo=powershell&logoColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=%23ffffff)
-![VS Code](https://img.shields.io/badge/-VSCode-%230066B8?style=flat&logo=visual-studio-code)
-
-
 ### 开源项目
 [![](https://github-readme-stats.vercel.app/api/pin/?username=GodKeawa&repo=GodKeawa.github.io&theme=tokyonight)](https://github.com/GodKeawa/GodKeawa.github.io)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=GodKeawa&repo=CrawlerDetect&theme=tokyonight)](https://github.com/GodKeawa/CrawlerDetect)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=GodKeawa&repo=PasswordGuessing&theme=tokyonight)](https://github.com/GodKeawa/PasswordGuessing)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=GodKeawa&repo=MedicalResearch&theme=tokyonight)](https://github.com/GodKeawa/MedicalResearch)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=GodKeawa&repo=Data-Classification&theme=tokyonight)](https://github.com/GodKeawa/Data-Classification)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=GodKeawa&repo=FudanMirror&theme=tokyonight)](https://github.com/GodKeawa/FudanMirror)
-
 
 <br>
 
