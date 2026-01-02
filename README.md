@@ -11,17 +11,10 @@
 - 对各种技术，游戏和社科哲学感兴趣
 - 欢迎光临我的Github 
 
-### 开源项目
-[![](https://github-readme-stats.vercel.app/api/pin/?username=GodKeawa&repo=GodKeawa.github.io&theme=tokyonight)](https://github.com/GodKeawa/GodKeawa.github.io)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=GodKeawa&repo=CrawlerDetect&theme=tokyonight)](https://github.com/GodKeawa/CrawlerDetect)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=GodKeawa&repo=PasswordGuessing&theme=tokyonight)](https://github.com/GodKeawa/PasswordGuessing)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=GodKeawa&repo=MedicalResearch&theme=tokyonight)](https://github.com/GodKeawa/MedicalResearch)
-
 <br>
 
 ### Github 状态图
-[![](https://activity-graph.herokuapp.com/graph?username=GodKeawa&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![GodKe's github stats](https://github-readme-stats.vercel.app/api?username=GodKeawa&show_icons=true&theme=tokyonight)
+[![GodKe's Github Stats](https://github-readme-activity-graph.cyclic.app/graph?username=GodKeawa&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Github 贡献图
 [![GodKe's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GodKeawa&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
