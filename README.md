@@ -6,7 +6,7 @@
 
 <div><img align="right" alt="GIF" src="https://imglink.win/image/2024/04/05/fBUHx.gif" width="300" height="100%" /></div>
 
-- 大家好，我是GodKe，来自江西南昌
+- 你好，我是GodKe，来自江西南昌
 - 目前是一名计算机系稀有专业的学生
 - 对各种技术，游戏和社科哲学感兴趣
-- 欢迎光临我的Github 
+- 欢迎光临我的Github
